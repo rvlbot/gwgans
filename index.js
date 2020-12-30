@@ -20,9 +20,9 @@ const instagram = 'Instagram kamu';
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Nama kamu\n' // Nama kamu
+            + 'FN:Rival Perfect\n' // Nama kamu
             + 'ORG:Nama bot;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6280000000000:+62 000-0000-0000\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=6285762102148:+62 857-6210-2148\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
